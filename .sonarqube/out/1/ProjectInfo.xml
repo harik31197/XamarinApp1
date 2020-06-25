@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>XamarinApp1.Android</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>5716c5d2-6551-4eb6-bcc4-8b9b9ed96dd2</ProjectGuid>
+  <FullPath>C:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1.Android\XamarinApp1.Android.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\harikrishnan.a\source\repos\XamarinApp1\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1.Android\bin\Debug\XamarinApp1.Android.dll.RoslynCA.json|C:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1.Android\bin\Debug\XamarinApp1.Android.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\harikrishnan.a\source\repos\XamarinApp1\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

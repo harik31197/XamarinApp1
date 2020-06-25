@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinApp1.MainPage">
+
+  <StackLayout BackgroundColor="Gray"  Spacing="10" Padding="10">
+    <!-- Place new controls here -->
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"/>
+      </Grid.RowDefinitions>
+
+      <Button BackgroundColor="Black" Grid.Row="0" Grid.Column="0" TextColor="WhiteSmoke" x:Name="Camera" Text="Take Photo" />
+      <Button BackgroundColor="White" Grid.Row="0" Grid.Column="1" TextColor="Black" x:Name="Pick" Text="Pick Photo" />
+    </Grid>
+    <ScrollView>
+      <StackLayout x:Name="ImageList">
+
+      </StackLayout>
+    </ScrollView>
+
+  </StackLayout>
+</ContentPage>

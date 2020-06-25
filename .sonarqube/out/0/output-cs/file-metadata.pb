@@ -1,0 +1,9 @@
+]
+TC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\App.xaml.csutf-8a
+XC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\AssemblyInfo.csutf-8j
+aC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\HelperClasses\LogFile.csutf-8b
+YC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\MainPage.xaml.csutf-8e
+ZC:\Users\harikrishnan.a\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.csutf-8z
+oC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\netstandard2.0\App.xaml.g.csutf-8
+tC:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.csutf-8ˆ
+}C:\Users\harikrishnan.a\source\repos\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\netstandard2.0\XamarinApp1.AssemblyInfo.csutf-8

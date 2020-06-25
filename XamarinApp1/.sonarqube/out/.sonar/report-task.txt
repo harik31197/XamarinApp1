@@ -1,0 +1,6 @@
+projectKey=PIA
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=PIA
+ceTaskId=AXG6ZJL-kguTsXyPuz5X
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXG6ZJL-kguTsXyPuz5X
